@@ -10,3 +10,4 @@
 * 3.HttpHelper
 * 4.QrCodeHelper
 * 5.AutoMapperHelper
+* 6.LogHelper
